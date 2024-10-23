@@ -104,4 +104,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-You can modify this template as needed and add specific project details. Let me know if you need any changes!
