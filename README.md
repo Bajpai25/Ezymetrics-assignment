@@ -1,6 +1,11 @@
 # Ezymetrics Assignment
 
-A web-based application built using **React**, **Vite**, **Tailwind CSS**, and **Material UI**, designed to provide a clean and interactive dashboard interface for managing data, generating reports, and visualizing analytics .
+-![Screenshot (106)](https://github.com/user-attachments/assets/49b718a8-c760-4326-8322-8bcdd69ab270)
+
+![Screenshot (107)](https://github.com/user-attachments/assets/a9390fc2-86ee-4300-a711-531896a64852)
+
+
+A web based application built using **React**, **Vite**, **Tailwind CSS**, and **Material UI**, designed to provide a clean and interactive dashboard interface for managing data, generating reports, and visualizing analytics .
 
 This application is a part of the assignmnet provided by Ezymetrics for frontend Developer Intern role.
 
