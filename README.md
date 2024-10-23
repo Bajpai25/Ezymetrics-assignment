@@ -1,4 +1,4 @@
-# Project Name
+# Ezymetrics Assignment
 
 A web-based application built using **React**, **Vite**, **Tailwind CSS**, and **Material UI**, designed to provide a clean and interactive dashboard interface for managing data, generating reports, and visualizing analytics .
 
